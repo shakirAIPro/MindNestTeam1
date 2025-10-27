@@ -6,3 +6,5 @@ print ("hello")
 
 x = 12 / 2
 print(x)
+print("what's up")
+
