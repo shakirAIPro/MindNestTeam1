@@ -7,4 +7,5 @@ print ("hello")
 x = 12 / 2
 print(x)
 print("what's up")
-
+x = 8.2 + 3.3
+print(x)
